@@ -1,8 +1,8 @@
 {
   "bundleName": "@local/sample-prebuilt",
   "version": "0.0.1",
-  "fingerprint": "65b2b5140597412770bee163",
-  "createdEpoch": "1706210580230",
+  "fingerprint": "65b2bbd80597412770bee164",
+  "createdEpoch": "1706212312010",
   "artifacts": [
     {
       "id": "sample",
